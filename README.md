@@ -1,2 +1,0 @@
-# Prevent_Component_Unmount_in_React_2
-Created with CodeSandbox
